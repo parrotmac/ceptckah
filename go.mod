@@ -5,7 +5,6 @@ go 1.18
 require (
 	github.com/bgentry/que-go v1.0.1
 	github.com/google/certificate-transparency-go v1.1.2
-	github.com/govau/cf-common v0.0.7
 	github.com/jackc/pgx v3.6.2+incompatible
 )
 
@@ -17,7 +16,6 @@ require (
 	github.com/census-instrumentation/opencensus-proto v0.3.0 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.1 // indirect
-	github.com/cloudfoundry-community/go-cfenv v1.18.0 // indirect
 	github.com/cncf/udpa/go v0.0.0-20201120205902-5459f2c99403 // indirect
 	github.com/cncf/xds/go v0.0.0-20210312221358-fbca930ec8ed // indirect
 	github.com/cockroachdb/apd v1.1.0 // indirect
@@ -49,7 +47,6 @@ require (
 	github.com/lib/pq v1.10.5 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.1 // indirect
-	github.com/mitchellh/mapstructure v1.1.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
